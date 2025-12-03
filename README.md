@@ -37,24 +37,12 @@
 
 ### 📈 GitHub Статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=retroFWN&show_icons=true&theme=github_dark&hide_title=true" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retroFWN&theme=dark" alt="streak" />
-</p>
-
----
-
-### 🔄 Последняя активность
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+Временно без нее, так как тулза которой пользовался - отключена создателем :(
 ---
 
 ### 📫 Контакты
 
-- Telegram: [@ForeverWinterNight](https://t.me/ForeverWinterNight) / [@EnvExample](https://t.me/RetroFWN)
+- Telegram: [@RetroFWN](https://t.me/retroFWN) / [@FoxGen](https://t.me/foxgen)
 - GitHub: [github.com/ForeverWinterNight](https://github.com/retroFWN)
 
 ---
